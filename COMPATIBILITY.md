@@ -1437,7 +1437,7 @@ This library is verified to work with following banks.
 - [ ] Volksbank Paderborn eG
 - [ ] Volksbank Paderborn-Höxter eG
 - [ ] Volksbank Peine eG
-- [ ] Volksbank Pforzheim
+- [x] Volksbank Pforzheim
 - [ ] Volksbank Pfullendorf
 - [ ] Volksbank Pinneberg-Uetersen eG
 - [ ] Volksbank Pirna
